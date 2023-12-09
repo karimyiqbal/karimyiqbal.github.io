@@ -1,0 +1,12 @@
+---
+title: "Research"
+format: html
+---
+
+## Research Paper
+
+[Research Paper](pdfs/goodland_finalproject.pdf)
+
+## Research Proposal
+
+[Research Proposal](pdfs/goodland_researchproposal.pdf)
