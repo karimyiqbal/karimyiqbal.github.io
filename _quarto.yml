@@ -1,5 +1,13 @@
 project:
+  type: website
   title: "karimyiqbal"
+  
+website: 
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+
 
 editor: visual
 
